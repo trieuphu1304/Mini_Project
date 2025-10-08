@@ -1,0 +1,17 @@
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Application.deps.json
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Application.runtimeconfig.json
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Application.dll
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Application.pdb
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.dll
+D:\Mini_Project\NewsApiSolution\MyApp.Application\bin\Debug\net8.0\MyApp.Domain.pdb
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.AssemblyReference.cache
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfoInputs.cache
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfo.cs
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.CoreCompileInputs.cache
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Ap.B540CA8A.Up2Date
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dll
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\MyApp.Application.genruntimeconfig.cache
+D:\Mini_Project\NewsApiSolution\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll
